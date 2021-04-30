@@ -1,5 +1,5 @@
 :root {
-    --input-padding-x: 1.5rem;
+    --input-padding-x: 1.25rem;
     --input-padding-y: .75rem;
   }
 
@@ -45,7 +45,7 @@ body {
   
 .form-signin .btn {
     font-size: 80%;
-    border-radius: 5rem;
+    border-radius: 0.75rem;
     letter-spacing: .1rem;
     font-weight: bold;
     padding: 1rem;
@@ -59,7 +59,7 @@ body {
   
 .form-label-group input {
     height: auto;
-    border-radius: 2rem;
+    border-radius: 0.75rem;
 }
   
 .form-label-group>input,
